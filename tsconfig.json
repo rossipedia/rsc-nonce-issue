@@ -1,0 +1,9 @@
+{
+  "include": ["src", "server.ts", "vite.config.mts"],
+  "compilerOptions": {
+    "noEmit": true,
+    "types": ["node"],
+    "allowJs": true,
+    "jsx": "react-jsx"
+  }
+}
